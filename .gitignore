@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-*.zip
+out.zip
+out
 
-=======
->>>>>>> c38442b04db6faf8bb970066fc04dcc923fa93ad
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
