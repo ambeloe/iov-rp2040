@@ -1828,7 +1828,7 @@
       (property "Value" "AT25FF081A" (id 1) (at 7.62 8.89 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 0 -8.89 0)
+      (property "Footprint" "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 0 -8.89 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "https://www.mouser.com/datasheet/2/698/DIAL_S_A0012811984_1-2956406.pdf" (id 3) (at 0 -11.43 0)
@@ -5296,7 +5296,7 @@
     (property "Value" "AT25FF081A" (id 1) (at 65.5194 168.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 63.5 179.07 0)
+    (property "Footprint" "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 63.5 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/698/DIAL_S_A0012811984_1-2956406.pdf" (id 3) (at 63.5 179.07 0)
@@ -5913,7 +5913,7 @@
       (reference "U2") (unit 1) (value "TLV75533PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/b7b22185-0271-4de5-b512-c1d6d756b28e"
-      (reference "U3") (unit 1) (value "AT25FF081A") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U3") (unit 1) (value "AT25FF081A") (footprint "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm")
     )
     (path "/88204602-feae-4226-a97a-61e6ccfdf297"
       (reference "U4") (unit 1) (value "RP2040") (footprint "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm")
